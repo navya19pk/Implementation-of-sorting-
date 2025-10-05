@@ -1,7 +1,6 @@
 # Implementation-of-Sorting-in-CPP
 Aim: To study and implementation of sorting in C++
 
-Software: Mingw c/cpp compiler , VScode , online C++ compiler
 
 # Program a: Bubble sort using pointer
 Theory with explanation of the code:
